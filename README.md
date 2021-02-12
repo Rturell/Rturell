@@ -1,17 +1,16 @@
 ### Hello! 👋
 
-Hello! My name is Rodrigo, I have an university degree in Communication Sciences and I worked for many years as a copywritter and graphic designer in different advertising agencies. Currently I work as a freelancer.
+My name is Rodrigo, and I am a Front End developer.
+I have an university degree in Communication Sciences and I worked for many years as a copywritter and graphic designer in different advertising agencies.
+In addition to communication, creative writing, and art direction, I studied Front End and Back End development at Hack Academy where I learned HTML5, CSS, Bootstrap, JavaScript, Vue.js, PHP, Laravel, MySQL, Git and more.
 
-I like challenges and I try to update myself constantly. In addition to communication, creative writing, and art direction, I studied Front End development at Hack Academy where I learned HTML5, CSS, Bootstrap, JavaScript, Vue.js, and more.
+Currently I work as a freelancer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: Capítulo Uruguay Website - https://capreduruguay.com.uy/
+- 🌱 I’m currently learning: Sass, Wordpress and Twig. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-->
+
+- 📫 How to reach me: rodrigoturell@gmail.com // https://www.linkedin.com/in/rodrigoturell/
+
 -->
