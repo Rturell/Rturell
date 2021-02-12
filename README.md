@@ -7,7 +7,7 @@ In addition to communication, creative writing, and art direction, I studied Fro
 Currently I work as a freelancer.
 
 - 🔭 I’m currently working on: Capítulo Uruguay Website - https://capreduruguay.com.uy/
-- 🌱 I’m currently learning: Sass, and theme development in Wordpress using twig and timber.  
+- 🌱 I’m currently learning: Sass, and Wordpress theme development using Twig and Timber.  
 
 -->
 
