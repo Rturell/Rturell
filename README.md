@@ -14,3 +14,7 @@ Currently I work as a freelancer.
 - 📫 How to reach me: rodrigoturell@gmail.com // https://www.linkedin.com/in/rodrigoturell/
 
 -->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=rturell&theme=radical" />
+
+
